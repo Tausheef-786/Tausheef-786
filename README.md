@@ -15,9 +15,9 @@
 
 <br clear="left"/> ---
 
-### 🛠 Tech Stack (Horizontal)
+  <h2> Tech Stack </h2>
 
-**Frontend & Styling:**
+  <h3>** Frontend & Styling **</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="100" widht="80" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"  height="100" widht="80" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black"  height="100" widht="80" />
 </p>
 
-**Backend & Programming:**
+<h3>** Backend & Programming **</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"  height="100" widht="80" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"   height="100" widht="80"/>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Joi-82BE27?style=flat&logo=joi&logoColor=white"  height="100" widht="80" />
 </p>
 
-**Databases & Tools:**
+<h3>** Databases & Tools **</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="100" widht="80" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="100" widht="80" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 📫 Connect with me:
+<h4>### 📫 Connect with me : </h4>
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="100" widht="80" /></a>
 <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="100" widht="80" /></a>
