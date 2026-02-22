@@ -1,61 +1,51 @@
-## Hi there 👋
+# Hi there 👋
 
-**Tausheef-786/Tausheef-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://github.com/Tausheef-766.png" width="150px" style="border-radius: 50%; float: left; margin-right: 20px;">
+  
+  <b> Hi! I'm Tausheef Ali</b>, an aspiring  Full-Stack Developer
+  currently building my foundation in  web technologies.
+  I'm actively working on projects to sharpen my skills in the MERN stack... 
+  <br><br>
+  - 🔭 **I’m currently working on:** RoamNest (Travel Marketplace)
+  - 🌱 **I’m currently learning:** Backend Patterns & System Design
+  - ⚡ **Fun fact:** I spend more time naming a variable than writing the code for it!
+</p>
 
-Here are some ideas to get you started:
+<br clear="left"/> ---
 
-- 🔭 I’m currently working on  RoamNest(A full-stack travel marketplace).
-- 🌱 I’m currently learning Backend Patterns and System Design
-- 👯 I’m looking to collaborate on Open Source MERN Stack Project
-- 📫 How to reach me: Email:tausheefali299@gmail.com
-- ⚡ Fun fact: My Brain has too many tabs open and most of them overflow.
-
-<table border="0">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://github.com/Tausheef-766.png" width="200px" style="border-radius: 50%; border: 2px solid #58a6ff;">
-    </td>
-    <td width="70%" valign="top">
-      <h3> Full-Stack Developer | Java Enthusiast 🚀 </h3>
-      <p>
-        I build scalable web applications using the MERN stack and Java. Passionate about clean code, database management, and crafting beautiful UIs with modern CSS frameworks.
-      </p>
-      <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 Tech Stack
+### 🛠 Tech Stack (Horizontal)
 
 **Frontend & Styling:**
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> </a>
-  <a href="https://ejs.co/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ejs.png" width="40" height="40" alt="EJS"/> </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black" />
 </p>
 
 **Backend & Programming:**
 <p align="left">
-  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="filter: invert(1);"/> </a>
-  <a href="https://joi.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/hapijs/joi/master/images/joi-logo.png" width="40" height="40" alt="Joi"/> </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joi-82BE27?style=flat&logo=joi&logoColor=white" />
 </p>
 
 **Databases & Tools:**
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> </a>
-  <a href="https://mongoosejs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="45" height="45"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-![Tausheef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tausheef-766&show_icons=true&theme=tokyonight)
+### 📫 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
