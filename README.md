@@ -2,14 +2,16 @@
 
   <h1> I'm Tausheef Ali</h1>
   <font size = "6">
- <b> Aspiring  Full-Stack Developer
+ <b style="font-size:"8"> Aspiring  Full-Stack Developer
   currently building my foundation in  web technologies.
   I'm actively working on projects to sharpen my skills in the MERN stack... </b>
   <br><br>
-  - 🔭 **I’m currently working on:** RoamNest (Travel Marketplace)
+  - 🔭 **I’m currently working on:** RoamNest (Travel Marketplace) 
+    <br> <br>
   - 🌱 **I’m currently learning:** Backend Patterns & System Design
+    <br><br>
   - ⚡ **Fun fact:** I spend more time naming a variable than writing the code for it!
-</p>
+
 
 <br clear="left"/> ---
 
