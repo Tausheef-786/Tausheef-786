@@ -8,11 +8,9 @@
   <br><br>
   - 🔭 I’m currently working on RoamNest (Travel Marketplace) 
     <br> <br>
-  - 🌱 I’m currently learning Backend Patterns & System Design
+  - 🌱 I’m currently learning React
     <br><br>
-  - ⚡ Fun fact : I spend more time naming a variable than writing the code for it!
-
-
+    
 <br clear="left"/> 
 
   <h2> Tech Stack </h2>
